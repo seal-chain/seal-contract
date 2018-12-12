@@ -3,7 +3,7 @@
 Quick Start: Browser
 ---
 
-The easiest way to try Pact is [in the browser](http://test.sealchain.io:6662).
+The easiest way to try Seal is [in the browser](http://test.sealchain.io:6662).
 
 defn
 ---
