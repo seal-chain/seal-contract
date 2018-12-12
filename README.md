@@ -1,5 +1,4 @@
 # seal-contract
-===
 
 Quick Start: Browser
 ---
